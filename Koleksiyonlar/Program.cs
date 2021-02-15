@@ -24,7 +24,7 @@ namespace Koleksiyonlar
             //dizilere bir şey ekleyemiyoruz o yüzden burda çalışmıyoruz.
             //o yüzden koleksiyonları kullanırız.
 
-            //değer tipler stock i kullanıyor, referans tipler ikisini de
+            //değer tipler stack i kullanıyor, referans tipler ikisini de
 
             //list yazdıktan sonra sağdaki ampule basıp en üstteki yani usingsystemcollectionsgeneric i işaretle.
 
